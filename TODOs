@@ -1,0 +1,7 @@
+* Fix endianness (colours are off): Finished! On the one hand, was the pixel editor (use GIMP from now on); and the bit-shift was wrong on `drawColumn`.
+* Implemented mouse look!
+- Refactor code to make it more manageable.
+- Fix collision detection
+- Implemented scaled text raster
+- FPS counter
+- Improve rotation factor, should feel fine!
